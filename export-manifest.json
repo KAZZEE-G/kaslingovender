@@ -1,0 +1,23 @@
+{
+  "title": "Kaslin Govender",
+  "saved_version": 1,
+  "commit_sha": "eb4b5e1b692dbb6d8b9a49017faefb945d5771b6",
+  "original_files": [
+    {
+      "path": ".openai/hosting.json",
+      "sha256": "95aaba6073eabd0223f87b51e38dce1cc95d3a1bcdcd519cbcb7857dcd6482fa",
+      "size_bytes": 106
+    },
+    {
+      "path": "dist/index.html",
+      "sha256": "714a62507cfe632ac9daec2c854a09ced6d7a1e900b0bc813557c56d56c779e0",
+      "size_bytes": 14902
+    }
+  ],
+  "added_documentation": [
+    "README.md",
+    "export-manifest.json"
+  ],
+  "dependencies": [],
+  "build_required": false
+}
